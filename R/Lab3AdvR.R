@@ -1,0 +1,19 @@
+#' Lab3AdvR: A package we have to create in lab 3 of advanced R Programming
+#'
+#' The Lab3AdvR package provides two  functions:
+#' euclidean and dijkstra
+#'
+#' @section euclidean function:
+#' In mathematics, the Euclidean algorithm[a], or Euclid's algorithm, 
+#' is an efficient method for computing the greatest common divisor (GCD) of two numbers, 
+#' the largest number that divides both of them without leaving a remainder.
+#'
+#' @section dijkstra function:
+#' Dijkstra's algorithm is an algorithm for finding the shortest paths between nodes in a graph, 
+#' which may represent, for example, road networks. It was conceived by computer scientist 
+#' Edsger W. Dijkstra in 1956 and published three years later.
+#'
+#' @docType package
+#' @name Lab3AdvR
+NULL
+#> NULL

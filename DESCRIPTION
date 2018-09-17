@@ -1,0 +1,14 @@
+Package: Lab3AdvR
+Type: Package
+Title: Uses the euclidean and dijkstra algorihtm
+Version: 1.0
+Date: 2018-09-16
+Author: Phillip Hoelscher
+Maintainer: Phillip Hoelscher <phiho267@student.liu.se>
+Description: In has the euclidean and dijkstra algorihtm implemented
+License: Apache Licence
+RoxygenNote: 6.1.0
+LazyData: TRUE
+Suggests: testthat
+Encoding: UTF-8
+Depends: R (>= 3.3.0)
