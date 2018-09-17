@@ -1,6 +1,6 @@
 #' Find the Greatest Common Divisor (GCD) of two integers.
 #'
-#' (b) Description of the algorithm
+#' The Euclidean Algorithm is a technique used for finding the Greatest Common divisor of two integers.
 #'
 #' @param a A number.
 #' @param b A number.

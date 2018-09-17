@@ -1,6 +1,7 @@
 #' Takes a graph and an initial node and calculates the shortest path from the initial node to every other node in the graph.
 #'
-#' (b) Description of the algorithm
+#' It is an algorithm used for finding the shortest path from a single node to a single destination node 
+#' by stopping the algorithm onc e the shortest path to the destination node has been determined.
 #'
 #' @param graph A data frame.
 #' @param init_node A number.

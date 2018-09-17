@@ -15,7 +15,8 @@ dijkstra(graph, init_node)
 The vector of the shortest path to every other node from the starting node.
 }
 \description{
-(b) Description of the algorithm
+It is an algorithm used for finding the shortest path from a single node to a single destination node 
+by stopping the algorithm onc e the shortest path to the destination node has been determined.
 }
 \examples{
 dijkstra(wiki_graph, 1)

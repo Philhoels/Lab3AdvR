@@ -15,7 +15,7 @@ euclidean(a, b)
 The sum of \code{a} and \code{b}.
 }
 \description{
-(b) Description of the algorithm
+The Euclidean Algorithm is a technique used for finding the Greatest Common divisor of two integers.
 }
 \examples{
 euclidean(123612, 13892347912)
